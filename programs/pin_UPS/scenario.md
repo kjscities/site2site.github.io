@@ -1,8 +1,8 @@
-pin_UPS/senerio.md
+pinUPS/senerio.md
 
-app: pin_UPS
+app: pinUPS
 
-#pin_UPS
+#pinUPS
 
 ##Description
 
